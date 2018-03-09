@@ -1,0 +1,6 @@
+framework module LLTestPod {
+  umbrella header "LLTestPod-umbrella.h"
+
+  export *
+  module * { export * }
+}
