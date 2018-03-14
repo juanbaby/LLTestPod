@@ -15,9 +15,9 @@ TODO: Add long description of the pod here.
   s.source           = { :git => "https://github.com/juanbaby/LLTestPod.git", :tag => "0.0.1" }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = "8.0"
 
-  s.source_files = 'LLTestPod/Classes/**/*{h,m}'
+  s.source_files = "LLTestPod/Classes/**/*{h,m}"
   
   # s.resource_bundles = {
   #   'LLTestPod' => ['LLTestPod/Assets/*.png']
